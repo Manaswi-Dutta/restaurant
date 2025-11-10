@@ -70,7 +70,7 @@ Add screenshots for Home, Menu & Cart pages once deployed on GitHub Pages.
 ---
 
 ## ✅ Live Demo (if hosted)
-> Add link after enabling GitHub Pages
+(https://vercel.com/manaswi-duttas-projects/restaurant/26NKk9xvGDDubgdV1hEWpgpHMqLT)
 
 ---
 
